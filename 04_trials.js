@@ -16,30 +16,30 @@ const task_trial_info_nonnegated = {
         {
            "item_id": 2,
            "animal": "lamb",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is an actual lamb.",
+           "QUD": "He is actually a lamb.",
            "optionLeft": "not INNOCENT at all",
            "optionRight": "very INNOCENT"
         },
         {
            "item_id": 3,
            "animal": "lamb",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is a literal lamb.",
+           "QUD": "He is literally a lamb.",
            "optionLeft": "not INNOCENT at all",
            "optionRight": "very INNOCENT"
         },
         {
            "item_id": 4,
            "animal": "lamb",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is a real lamb.",
+           "QUD": "He is really a lamb.",
            "optionLeft": "not INNOCENT at all",
            "optionRight": "very INNOCENT"
         }
@@ -59,30 +59,30 @@ const task_trial_info_nonnegated = {
         {
            "item_id": 6,
            "animal": "wolf",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is an actual wolf.",
+           "QUD": "He is actually a wolf.",
            "optionLeft": "not LONELY at all",
            "optionRight": "very LONELY"
         },
         {
            "item_id": 7,
            "animal": "wolf",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is a literal wolf.",
+           "QUD": "He is literally a wolf.",
            "optionLeft": "not LONELY at all",
            "optionRight": "very LONELY"
         },
         {
            "item_id": 8,
            "animal": "wolf",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is a real wolf.",
+           "QUD": "He is really a wolf.",
            "optionLeft": "not LONELY at all",
            "optionRight": "very LONELY"
         }
@@ -102,30 +102,30 @@ const task_trial_info_nonnegated = {
         {
            "item_id": 10,
            "animal": "bat",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is an actual bat.",
+           "QUD": "She is actually a bat.",
            "optionLeft": "not BLIND at all",
            "optionRight": "very BLIND"
         },
         {
            "item_id": 11,
            "animal": "bat",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is a literal bat.",
+           "QUD": "She is literally a bat.",
            "optionLeft": "not BLIND at all",
            "optionRight": "very BLIND"
         },
         {
            "item_id": 12,
            "animal": "bat",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is a real bat.",
+           "QUD": "She is really a bat.",
            "optionLeft": "not BLIND at all",
            "optionRight": "very BLIND"
         }
@@ -145,30 +145,30 @@ const task_trial_info_nonnegated = {
         {
            "item_id": 14,
            "animal": "lion",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is an actual lion.",
+           "QUD": "He is actually a lion.",
            "optionLeft": "not BRAVE at all",
            "optionRight": "very BRAVE"
         },
         {
            "item_id": 15,
            "animal": "lion",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is a literal lion.",
+           "QUD": "He is literally a lion.",
            "optionLeft": "not BRAVE at all",
            "optionRight": "very BRAVE"
         },
         {
            "item_id": 16,
            "animal": "lion",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is a real lion.",
+           "QUD": "He is really a lion.",
            "optionLeft": "not BRAVE at all",
            "optionRight": "very BRAVE"
         }
@@ -188,30 +188,30 @@ const task_trial_info_nonnegated = {
         {
            "item_id": 18,
            "animal": "bee",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is an actual bee.",
+           "QUD": "She is actually a bee.",
            "optionLeft": "not HARD-WORKING at all",
            "optionRight": "very HARD-WORKING"
         },
         {
            "item_id": 19,
            "animal": "bee",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is a literal bee.",
+           "QUD": "She is literally a bee.",
            "optionLeft": "not HARD-WORKING at all",
            "optionRight": "very HARD-WORKING"
         },
         {
            "item_id": 20,
            "animal": "bee",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is a real bee.",
+           "QUD": "She is really a bee.",
            "optionLeft": "not HARD-WORKING at all",
            "optionRight": "very HARD-WORKING"
         }
@@ -231,30 +231,30 @@ const task_trial_info_nonnegated = {
         {
            "item_id": 22,
            "animal": "chicken",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is an actual chicken.",
+           "QUD": "She is actually a chicken.",
            "optionLeft": "not COWARDLY at all",
            "optionRight": "very COWARDLY"
         },
         {
            "item_id": 23,
            "animal": "chicken",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is a literal chicken.",
+           "QUD": "She is literally a chicken.",
            "optionLeft": "not COWARDLY at all",
            "optionRight": "very COWARDLY"
         },
         {
            "item_id": 24,
            "animal": "chicken",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is a real chicken.",
+           "QUD": "She is really a chicken.",
            "optionLeft": "not COWARDLY at all",
            "optionRight": "very COWARDLY"
         }
@@ -274,30 +274,30 @@ const task_trial_info_nonnegated = {
         {
            "item_id": 26,
            "animal": "mouse",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is an actual mouse.",
+           "QUD": "He is actually a mouse.",
            "optionLeft": "not QUIET at all",
            "optionRight": "very QUIET"
         },
         {
            "item_id": 27,
            "animal": "mouse",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is a literal mouse.",
+           "QUD": "He is literally a mouse.",
            "optionLeft": "not QUIET at all",
            "optionRight": "very QUIET"
         },
         {
            "item_id": 28,
            "animal": "mouse",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is a real mouse.",
+           "QUD": "He is really a mouse.",
            "optionLeft": "not QUIET at all",
            "optionRight": "very QUIET"
         }
@@ -317,30 +317,30 @@ const task_trial_info_nonnegated = {
         {
            "item_id": 30,
            "animal": "cow",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is an actual cow.",
+           "QUD": "She is actually a cow.",
            "optionLeft": "not FAT at all",
            "optionRight": "very FAT"
         },
         {
            "item_id": 31,
            "animal": "cow",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is a literal cow.",
+           "QUD": "She is literally a cow.",
            "optionLeft": "not FAT at all",
            "optionRight": "very FAT"
         },
         {
            "item_id": 32,
            "animal": "cow",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is a real cow.",
+           "QUD": "She is really a cow.",
            "optionLeft": "not FAT at all",
            "optionRight": "very FAT"
         }
@@ -360,30 +360,30 @@ const task_trial_info_nonnegated = {
         {
            "item_id": 34,
            "animal": "rat",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is an actual rat.",
+           "QUD": "He is actually a rat.",
            "optionLeft": "not DISGUSTING at all",
            "optionRight": "very DISGUSTING"
         },
         {
            "item_id": 35,
            "animal": "rat",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is a literal rat.",
+           "QUD": "He is literally a rat.",
            "optionLeft": "not DISGUSTING at all",
            "optionRight": "very DISGUSTING"
         },
         {
            "item_id": 36,
            "animal": "rat",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is a real rat.",
+           "QUD": "He is really a rat.",
            "optionLeft": "not DISGUSTING at all",
            "optionRight": "very DISGUSTING"
         }
@@ -403,30 +403,30 @@ const task_trial_info_nonnegated = {
         {
            "item_id": 38,
            "animal": "hen",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is an actual hen.",
+           "QUD": "She is actually a hen.",
            "optionLeft": "not PROTECTIVE at all",
            "optionRight": "very PROTECTIVE"
         },
         {
            "item_id": 39,
            "animal": "hen",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is a literal hen.",
+           "QUD": "She is literally a hen.",
            "optionLeft": "not PROTECTIVE at all",
            "optionRight": "very PROTECTIVE"
         },
         {
            "item_id": 40,
            "animal": "hen",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is a real hen.",
+           "QUD": "She is really a hen.",
            "optionLeft": "not PROTECTIVE at all",
            "optionRight": "very PROTECTIVE"
         }
@@ -446,30 +446,30 @@ const task_trial_info_nonnegated = {
         {
            "item_id": 42,
            "animal": "weasel",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is an actual weasel.",
+           "QUD": "He is actually a weasel.",
            "optionLeft": "not DEVIOUS at all",
            "optionRight": "very DEVIOUS"
         },
         {
            "item_id": 43,
            "animal": "weasel",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is a literal weasel.",
+           "QUD": "He is literally a weasel.",
            "optionLeft": "not DEVIOUS at all",
            "optionRight": "very DEVIOUS"
         },
         {
            "item_id": 44,
            "animal": "weasel",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is a real weasel.",
+           "QUD": "He is really a weasel.",
            "optionLeft": "not DEVIOUS at all",
            "optionRight": "very DEVIOUS"
         }
@@ -489,30 +489,30 @@ const task_trial_info_nonnegated = {
         {
            "item_id": 46,
            "animal": "owl",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is an actual owl.",
+           "QUD": "She is actually an owl.",
            "optionLeft": "not WISE at all",
            "optionRight": "very WISE"
         },
         {
            "item_id": 47,
            "animal": "owl",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is a literal owl.",
+           "QUD": "She is literally an owl.",
            "optionLeft": "not WISE at all",
            "optionRight": "very WISE"
         },
         {
            "item_id": 48,
            "animal": "owl",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is a real owl.",
+           "QUD": "She is really an owl.",
            "optionLeft": "not WISE at all",
            "optionRight": "very WISE"
         }
@@ -532,30 +532,30 @@ const task_trial_info_nonnegated = {
         {
            "item_id": 50,
            "animal": "snake",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is an actual snake.",
+           "QUD": "He is actually a snake.",
            "optionLeft": "not SNEAKY at all",
            "optionRight": "very SNEAKY"
         },
         {
            "item_id": 51,
            "animal": "snake",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is a literal snake.",
+           "QUD": "He is literally a snake.",
            "optionLeft": "not SNEAKY at all",
            "optionRight": "very SNEAKY"
         },
         {
            "item_id": 52,
            "animal": "snake",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is a real snake.",
+           "QUD": "He is really a snake.",
            "optionLeft": "not SNEAKY at all",
            "optionRight": "very SNEAKY"
         }
@@ -578,30 +578,30 @@ const task_trial_info_negated = {
         {
            "item_id": 54,
            "animal": "lamb",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is not an actual lamb.",
+           "QUD": "He is not actually a lamb.",
            "optionLeft": "not INNOCENT at all",
            "optionRight": "very INNOCENT"
         },
         {
            "item_id": 55,
            "animal": "lamb",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is not a literal lamb.",
+           "QUD": "He is not literally a lamb.",
            "optionLeft": "not INNOCENT at all",
            "optionRight": "very INNOCENT"
         },
         {
            "item_id": 56,
            "animal": "lamb",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is not a real lamb.",
+           "QUD": "He is not really a lamb.",
            "optionLeft": "not INNOCENT at all",
            "optionRight": "very INNOCENT"
         }
@@ -621,30 +621,30 @@ const task_trial_info_negated = {
         {
            "item_id": 58,
            "animal": "wolf",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is not an actual wolf.",
+           "QUD": "He is not actually a wolf.",
            "optionLeft": "not LONELY at all",
            "optionRight": "very LONELY"
         },
         {
            "item_id": 59,
            "animal": "wolf",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is not a literal wolf.",
+           "QUD": "He is not literally a wolf.",
            "optionLeft": "not LONELY at all",
            "optionRight": "very LONELY"
         },
         {
            "item_id": 60,
            "animal": "wolf",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is not a real wolf.",
+           "QUD": "He is not really a wolf.",
            "optionLeft": "not LONELY at all",
            "optionRight": "very LONELY"
         }
@@ -664,30 +664,30 @@ const task_trial_info_negated = {
         {
            "item_id": 62,
            "animal": "bat",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is not an actual bat.",
+           "QUD": "She is not actually a bat.",
            "optionLeft": "not BLIND at all",
            "optionRight": "very BLIND"
         },
         {
            "item_id": 63,
            "animal": "bat",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is not a literal bat.",
+           "QUD": "She is not literally a bat.",
            "optionLeft": "not BLIND at all",
            "optionRight": "very BLIND"
         },
         {
            "item_id": 64,
            "animal": "bat",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is not a real bat.",
+           "QUD": "She is not really a bat.",
            "optionLeft": "not BLIND at all",
            "optionRight": "very BLIND"
         }
@@ -707,30 +707,30 @@ const task_trial_info_negated = {
         {
            "item_id": 66,
            "animal": "lion",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is not an actual lion.",
+           "QUD": "He is not actually a lion.",
            "optionLeft": "not BRAVE at all",
            "optionRight": "very BRAVE"
         },
         {
            "item_id": 67,
            "animal": "lion",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is not a literal lion.",
+           "QUD": "He is not literally a lion.",
            "optionLeft": "not BRAVE at all",
            "optionRight": "very BRAVE"
         },
         {
            "item_id": 68,
            "animal": "lion",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is not a real lion.",
+           "QUD": "He is not really a lion.",
            "optionLeft": "not BRAVE at all",
            "optionRight": "very BRAVE"
         }
@@ -750,30 +750,30 @@ const task_trial_info_negated = {
         {
            "item_id": 70,
            "animal": "bee",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is not an actual bee.",
+           "QUD": "She is not actually a bee.",
            "optionLeft": "not HARD-WORKING at all",
            "optionRight": "very HARD-WORKING"
         },
         {
            "item_id": 71,
            "animal": "bee",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is not a literal bee.",
+           "QUD": "She is not literally a bee.",
            "optionLeft": "not HARD-WORKING at all",
            "optionRight": "very HARD-WORKING"
         },
         {
            "item_id": 72,
            "animal": "bee",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is not a real bee.",
+           "QUD": "She is not really a bee.",
            "optionLeft": "not HARD-WORKING at all",
            "optionRight": "very HARD-WORKING"
         }
@@ -793,30 +793,30 @@ const task_trial_info_negated = {
         {
            "item_id": 74,
            "animal": "chicken",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is not an actual chicken.",
+           "QUD": "She is not actually a chicken.",
            "optionLeft": "not COWARDLY at all",
            "optionRight": "very COWARDLY"
         },
         {
            "item_id": 75,
            "animal": "chicken",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is not a literal chicken.",
+           "QUD": "She is not literally a chicken.",
            "optionLeft": "not COWARDLY at all",
            "optionRight": "very COWARDLY"
         },
         {
            "item_id": 76,
            "animal": "chicken",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is not a real chicken.",
+           "QUD": "She is not really a chicken.",
            "optionLeft": "not COWARDLY at all",
            "optionRight": "very COWARDLY"
         }
@@ -836,30 +836,30 @@ const task_trial_info_negated = {
         {
            "item_id": 78,
            "animal": "mouse",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is not an actual mouse.",
+           "QUD": "He is not actually a mouse.",
            "optionLeft": "not QUIET at all",
            "optionRight": "very QUIET"
         },
         {
            "item_id": 79,
            "animal": "mouse",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is not a literal mouse.",
+           "QUD": "He is not literally a mouse.",
            "optionLeft": "not QUIET at all",
            "optionRight": "very QUIET"
         },
         {
            "item_id": 80,
            "animal": "mouse",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is not a real mouse.",
+           "QUD": "He is not really a mouse.",
            "optionLeft": "not QUIET at all",
            "optionRight": "very QUIET"
         }
@@ -879,30 +879,30 @@ const task_trial_info_negated = {
         {
            "item_id": 82,
            "animal": "cow",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is not an actual cow.",
+           "QUD": "She is not actually a cow.",
            "optionLeft": "not FAT at all",
            "optionRight": "very FAT"
         },
         {
            "item_id": 83,
            "animal": "cow",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is not a literal cow.",
+           "QUD": "She is not literally a cow.",
            "optionLeft": "not FAT at all",
            "optionRight": "very FAT"
         },
         {
            "item_id": 84,
            "animal": "cow",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is not a real cow.",
+           "QUD": "She is not really a cow.",
            "optionLeft": "not FAT at all",
            "optionRight": "very FAT"
         }
@@ -922,30 +922,30 @@ const task_trial_info_negated = {
         {
            "item_id": 86,
            "animal": "rat",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is not an actual rat.",
+           "QUD": "He is not actually a rat.",
            "optionLeft": "not DISGUSTING at all",
            "optionRight": "very DISGUSTING"
         },
         {
            "item_id": 87,
            "animal": "rat",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is not a literal rat.",
+           "QUD": "He is not literally a rat.",
            "optionLeft": "not DISGUSTING at all",
            "optionRight": "very DISGUSTING"
         },
         {
            "item_id": 88,
            "animal": "rat",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is not a real rat.",
+           "QUD": "He is not really a rat.",
            "optionLeft": "not DISGUSTING at all",
            "optionRight": "very DISGUSTING"
         }
@@ -965,30 +965,30 @@ const task_trial_info_negated = {
         {
            "item_id": 90,
            "animal": "hen",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is not an actual hen.",
+           "QUD": "She is not actually a hen.",
            "optionLeft": "not PROTECTIVE at all",
            "optionRight": "very PROTECTIVE"
         },
         {
            "item_id": 91,
            "animal": "hen",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is not a literal hen.",
+           "QUD": "She is not literally a hen.",
            "optionLeft": "not PROTECTIVE at all",
            "optionRight": "very PROTECTIVE"
         },
         {
            "item_id": 92,
            "animal": "hen",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is not a real hen.",
+           "QUD": "She is not really a hen.",
            "optionLeft": "not PROTECTIVE at all",
            "optionRight": "very PROTECTIVE"
         }
@@ -1008,30 +1008,30 @@ const task_trial_info_negated = {
         {
            "item_id": 94,
            "animal": "weasel",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is not an actual weasel.",
+           "QUD": "He is not actually a weasel.",
            "optionLeft": "not DEVIOUS at all",
            "optionRight": "very DEVIOUS"
         },
         {
            "item_id": 95,
            "animal": "weasel",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is not a literal weasel.",
+           "QUD": "He is not literally a weasel.",
            "optionLeft": "not DEVIOUS at all",
            "optionRight": "very DEVIOUS"
         },
         {
            "item_id": 96,
            "animal": "weasel",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is not a real weasel.",
+           "QUD": "He is not really a weasel.",
            "optionLeft": "not DEVIOUS at all",
            "optionRight": "very DEVIOUS"
         }
@@ -1051,30 +1051,30 @@ const task_trial_info_negated = {
         {
            "item_id": 98,
            "animal": "owl",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is not an actual owl.",
+           "QUD": "She is not actually an owl.",
            "optionLeft": "not WISE at all",
            "optionRight": "very WISE"
         },
         {
            "item_id": 99,
            "animal": "owl",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is not a literal owl.",
+           "QUD": "She is not literally an owl.",
            "optionLeft": "not WISE at all",
            "optionRight": "very WISE"
         },
         {
            "item_id": 100,
            "animal": "owl",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "She is not a real owl.",
+           "QUD": "She is not really an owl.",
            "optionLeft": "not WISE at all",
            "optionRight": "very WISE"
         }
@@ -1094,30 +1094,30 @@ const task_trial_info_negated = {
         {
            "item_id": 102,
            "animal": "snake",
-           "modal": "actual",
+           "modal": "actually",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is not an actual snake.",
+           "QUD": "He is not actually a snake.",
            "optionLeft": "not SNEAKY at all",
            "optionRight": "very SNEAKY"
         },
         {
            "item_id": 103,
            "animal": "snake",
-           "modal": "literal",
+           "modal": "literally",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is not a literal snake.",
+           "QUD": "He is not literally a snake.",
            "optionLeft": "not SNEAKY at all",
            "optionRight": "very SNEAKY"
         },
         {
            "item_id": 104,
            "animal": "snake",
-           "modal": "real",
+           "modal": "really",
            "condition": "intensified",
            "question": "To what extent do you think that the people in the conversation are talking about someone who is ...",
-           "QUD": "He is not a real snake.",
+           "QUD": "He is not really a snake.",
            "optionLeft": "not SNEAKY at all",
            "optionRight": "very SNEAKY"
         }
