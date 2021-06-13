@@ -32,7 +32,7 @@ const create_experimental_data = function(nonnegated_data, negated_data) {
   //store every statement of every animal for one participant
   var all_statements = {sliderRating:[]};
 
-  const modal_adjectives = ['actual', 'literal', 'real'];
+
   // loop through different animals
   for (const [animal, values] of Object.entries(experimental_data)) {
     //console.log(`${animal}: ${values}`);
@@ -45,11 +45,11 @@ const create_experimental_data = function(nonnegated_data, negated_data) {
     var random_number = Math.random();
 
     if (random_number <= 1/3) {
-      all_statements.sliderRating.push(values.find(item => item.modal === "actual"));
+      all_statements.sliderRating.push(values.find(item => item.modal === "actually"));
     } else if (random_number <= 2/3) {
-      all_statements.sliderRating.push(values.find(item => item.modal === "literal"));
+      all_statements.sliderRating.push(values.find(item => item.modal === "literally"));
     } else {
-      all_statements.sliderRating.push(values.find(item => item.modal === "real"));
+      all_statements.sliderRating.push(values.find(item => item.modal === "really"));
     }
 
 
