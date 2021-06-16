@@ -32,6 +32,8 @@ const create_experimental_data = function(nonnegated_data, negated_data) {
   //store every statement of every animal for one participant
   var all_statements = {sliderRating:[]};
 
+  const adverbs = ["really", "really", "really", "really", "really", "literally", "literally", "literally", "literally", "actually", "actually", "actually", "actually"];
+  const adverbs_shuffled = adverbs.sort((a, b) => 0.5 - Math.random());
 
   // loop through different animals
   for (const [animal, values] of Object.entries(experimental_data)) {
@@ -44,14 +46,9 @@ const create_experimental_data = function(nonnegated_data, negated_data) {
 
     var random_number = Math.random();
 
-    if (random_number <= 1/3) {
-      all_statements.sliderRating.push(values.find(item => item.modal === "actually"));
-    } else if (random_number <= 2/3) {
-      all_statements.sliderRating.push(values.find(item => item.modal === "literally"));
-    } else {
-      all_statements.sliderRating.push(values.find(item => item.modal === "really"));
-    }
+    var random_adverb = adverbs_shuffled.pop()
 
+    all_statements.sliderRating.push(values.find(item => item.modal === random_adverb));
 
   }
   return all_statements;
