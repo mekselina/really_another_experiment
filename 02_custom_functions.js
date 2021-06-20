@@ -22,7 +22,7 @@ const create_experimental_data = function(nonnegated_data, negated_data) {
   // decide if person gets negated or non negated statements
   var experimental_data;
   const negation_number = Math.random();
-  console.log(negation_number);
+
   if (negation_number < 0.5) {
     experimental_data = nonnegated_data;
   } else {
@@ -31,8 +31,11 @@ const create_experimental_data = function(nonnegated_data, negated_data) {
 
   //store every statement of every animal for one participant
   var all_statements = {sliderRating:[]};
+  var adverbs_once = ["actually", "literally", "really"];
+  var pick_random_adverb = adverbs_once[Math.floor(Math.random()*adverbs_once.length)];
 
-  const adverbs = ["really", "really", "really", "really", "really", "literally", "literally", "literally", "literally", "actually", "actually", "actually", "actually"];
+  const adverbs = ["actually", "actually", "actually", "actually", "literally", "literally", "literally", "literally", "really", "really", "really", "really"];
+  adverbs.push(pick_random_adverb);
   const adverbs_shuffled = adverbs.sort((a, b) => 0.5 - Math.random());
 
   // loop through different animals
