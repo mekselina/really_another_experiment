@@ -8,7 +8,7 @@ const task_trial_info_nonnegated = {
            "animal": "lamb",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>INNOCENT</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>INNOCENT</b> ?",
            "QUD": "He is a lamb.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -18,7 +18,7 @@ const task_trial_info_nonnegated = {
            "animal": "lamb",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>INNOCENT</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>INNOCENT</b> ?",
            "QUD": "He is actually a lamb.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -28,7 +28,7 @@ const task_trial_info_nonnegated = {
            "animal": "lamb",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>INNOCENT</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>INNOCENT</b> ?",
            "QUD": "He is literally a lamb.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -38,7 +38,7 @@ const task_trial_info_nonnegated = {
            "animal": "lamb",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>INNOCENT</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>INNOCENT</b> ?",
            "QUD": "He is really a lamb.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -51,7 +51,7 @@ const task_trial_info_nonnegated = {
            "animal": "wolf",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>LONELY</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>LONELY</b> ?",
            "QUD": "He is a wolf.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -61,7 +61,7 @@ const task_trial_info_nonnegated = {
            "animal": "wolf",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>LONELY</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>LONELY</b> ?",
            "QUD": "He is actually a wolf.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -71,7 +71,7 @@ const task_trial_info_nonnegated = {
            "animal": "wolf",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>LONELY</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>LONELY</b> ?",
            "QUD": "He is literally a wolf.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -81,7 +81,7 @@ const task_trial_info_nonnegated = {
            "animal": "wolf",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>LONELY</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>LONELY</b> ?",
            "QUD": "He is really a wolf.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -94,7 +94,7 @@ const task_trial_info_nonnegated = {
            "animal": "bat",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>BLIND</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>BLIND</b> ?",
            "QUD": "She is a bat.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -104,7 +104,7 @@ const task_trial_info_nonnegated = {
            "animal": "bat",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>BLIND</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>BLIND</b> ?",
            "QUD": "She is actually a bat.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -114,7 +114,7 @@ const task_trial_info_nonnegated = {
            "animal": "bat",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>BLIND</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>BLIND</b> ?",
            "QUD": "She is literally a bat.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -124,7 +124,7 @@ const task_trial_info_nonnegated = {
            "animal": "bat",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>BLIND</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>BLIND</b> ?",
            "QUD": "She is really a bat.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -137,7 +137,7 @@ const task_trial_info_nonnegated = {
            "animal": "lion",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>BRAVE</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>BRAVE</b> ?",
            "QUD": "He is a lion.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -147,7 +147,7 @@ const task_trial_info_nonnegated = {
            "animal": "lion",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>BRAVE</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>BRAVE</b> ?",
            "QUD": "He is actually a lion.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -157,7 +157,7 @@ const task_trial_info_nonnegated = {
            "animal": "lion",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>BRAVE</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>BRAVE</b> ?",
            "QUD": "He is literally a lion.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -167,7 +167,7 @@ const task_trial_info_nonnegated = {
            "animal": "lion",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>BRAVE</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>BRAVE</b> ?",
            "QUD": "He is really a lion.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -180,7 +180,7 @@ const task_trial_info_nonnegated = {
            "animal": "bee",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>HARD-WORKING</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>HARD-WORKING</b> ?",
            "QUD": "She is a bee.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -190,7 +190,7 @@ const task_trial_info_nonnegated = {
            "animal": "bee",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>HARD-WORKING</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>HARD-WORKING</b> ?",
            "QUD": "She is actually a bee.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -200,7 +200,7 @@ const task_trial_info_nonnegated = {
            "animal": "bee",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>HARD-WORKING</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>HARD-WORKING</b> ?",
            "QUD": "She is literally a bee.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -210,7 +210,7 @@ const task_trial_info_nonnegated = {
            "animal": "bee",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>HARD-WORKING</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>HARD-WORKING</b> ?",
            "QUD": "She is really a bee.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -223,7 +223,7 @@ const task_trial_info_nonnegated = {
            "animal": "chicken",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>COWARDLY</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>COWARDLY</b> ?",
            "QUD": "She is a chicken.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -233,7 +233,7 @@ const task_trial_info_nonnegated = {
            "animal": "chicken",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>COWARDLY</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>COWARDLY</b> ?",
            "QUD": "She is actually a chicken.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -243,7 +243,7 @@ const task_trial_info_nonnegated = {
            "animal": "chicken",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>COWARDLY</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>COWARDLY</b> ?",
            "QUD": "She is literally a chicken.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -253,7 +253,7 @@ const task_trial_info_nonnegated = {
            "animal": "chicken",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>COWARDLY</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>COWARDLY</b> ?",
            "QUD": "She is really a chicken.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -266,7 +266,7 @@ const task_trial_info_nonnegated = {
            "animal": "mouse",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>QUIET</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>QUIET</b> ?",
            "QUD": "He is a mouse.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -276,7 +276,7 @@ const task_trial_info_nonnegated = {
            "animal": "mouse",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>QUIET</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>QUIET</b> ?",
            "QUD": "He is actually a mouse.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -286,7 +286,7 @@ const task_trial_info_nonnegated = {
            "animal": "mouse",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>QUIET</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>QUIET</b> ?",
            "QUD": "He is literally a mouse.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -296,7 +296,7 @@ const task_trial_info_nonnegated = {
            "animal": "mouse",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>QUIET</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>QUIET</b> ?",
            "QUD": "He is really a mouse.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -309,7 +309,7 @@ const task_trial_info_nonnegated = {
            "animal": "cow",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>FAT</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>FAT</b> ?",
            "QUD": "She is a cow.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -319,7 +319,7 @@ const task_trial_info_nonnegated = {
            "animal": "cow",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>FAT</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>FAT</b> ?",
            "QUD": "She is actually a cow.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -329,7 +329,7 @@ const task_trial_info_nonnegated = {
            "animal": "cow",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>FAT</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>FAT</b> ?",
            "QUD": "She is literally a cow.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -339,7 +339,7 @@ const task_trial_info_nonnegated = {
            "animal": "cow",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>FAT</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>FAT</b> ?",
            "QUD": "She is really a cow.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -352,7 +352,7 @@ const task_trial_info_nonnegated = {
            "animal": "rat",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>DISGUSTING</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>DISGUSTING</b> ?",
            "QUD": "He is a rat.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -362,7 +362,7 @@ const task_trial_info_nonnegated = {
            "animal": "rat",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>DISGUSTING</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>DISGUSTING</b> ?",
            "QUD": "He is actually a rat.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -372,7 +372,7 @@ const task_trial_info_nonnegated = {
            "animal": "rat",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>DISGUSTING</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>DISGUSTING</b> ?",
            "QUD": "He is literally a rat.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -382,7 +382,7 @@ const task_trial_info_nonnegated = {
            "animal": "rat",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>DISGUSTING</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>DISGUSTING</b> ?",
            "QUD": "He is really a rat.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -395,7 +395,7 @@ const task_trial_info_nonnegated = {
            "animal": "hen",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>PROTECTIVE</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>PROTECTIVE</b> ?",
            "QUD": "She is a hen.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -405,7 +405,7 @@ const task_trial_info_nonnegated = {
            "animal": "hen",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>PROTECTIVE</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>PROTECTIVE</b> ?",
            "QUD": "She is actually a hen.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -415,7 +415,7 @@ const task_trial_info_nonnegated = {
            "animal": "hen",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>PROTECTIVE</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>PROTECTIVE</b> ?",
            "QUD": "She is literally a hen.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -425,7 +425,7 @@ const task_trial_info_nonnegated = {
            "animal": "hen",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>PROTECTIVE</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>PROTECTIVE</b> ?",
            "QUD": "She is really a hen.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -438,7 +438,7 @@ const task_trial_info_nonnegated = {
            "animal": "weasel",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>DEVIOUS</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>DEVIOUS</b> ?",
            "QUD": "He is a weasel.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -448,7 +448,7 @@ const task_trial_info_nonnegated = {
            "animal": "weasel",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>DEVIOUS</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>DEVIOUS</b> ?",
            "QUD": "He is actually a weasel.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -458,7 +458,7 @@ const task_trial_info_nonnegated = {
            "animal": "weasel",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>DEVIOUS</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>DEVIOUS</b> ?",
            "QUD": "He is literally a weasel.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -468,7 +468,7 @@ const task_trial_info_nonnegated = {
            "animal": "weasel",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>DEVIOUS</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>DEVIOUS</b> ?",
            "QUD": "He is really a weasel.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -481,7 +481,7 @@ const task_trial_info_nonnegated = {
            "animal": "owl",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>WISE</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>WISE</b> ?",
            "QUD": "She is an owl.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -491,7 +491,7 @@ const task_trial_info_nonnegated = {
            "animal": "owl",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>WISE</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>WISE</b> ?",
            "QUD": "She is actually an owl.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -501,7 +501,7 @@ const task_trial_info_nonnegated = {
            "animal": "owl",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>WISE</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>WISE</b> ?",
            "QUD": "She is literally an owl.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -511,7 +511,7 @@ const task_trial_info_nonnegated = {
            "animal": "owl",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>WISE</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>WISE</b> ?",
            "QUD": "She is really an owl.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -524,7 +524,7 @@ const task_trial_info_nonnegated = {
            "animal": "snake",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>SNEAKY</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>SNEAKY</b> ?",
            "QUD": "He is a snake.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -534,7 +534,7 @@ const task_trial_info_nonnegated = {
            "animal": "snake",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>SNEAKY</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>SNEAKY</b> ?",
            "QUD": "He is actually a snake.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -544,7 +544,7 @@ const task_trial_info_nonnegated = {
            "animal": "snake",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>SNEAKY</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>SNEAKY</b> ?",
            "QUD": "He is literally a snake.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -554,7 +554,7 @@ const task_trial_info_nonnegated = {
            "animal": "snake",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>SNEAKY</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>SNEAKY</b> ?",
            "QUD": "He is really a snake.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -570,7 +570,7 @@ const task_trial_info_negated = {
            "animal": "lamb",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>INNOCENT</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>INNOCENT</b> ?",
            "QUD": "He is not a lamb.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -580,7 +580,7 @@ const task_trial_info_negated = {
            "animal": "lamb",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>INNOCENT</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>INNOCENT</b> ?",
            "QUD": "He is not actually a lamb.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -590,7 +590,7 @@ const task_trial_info_negated = {
            "animal": "lamb",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>INNOCENT</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>INNOCENT</b> ?",
            "QUD": "He is not literally a lamb.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -600,7 +600,7 @@ const task_trial_info_negated = {
            "animal": "lamb",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>INNOCENT</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>INNOCENT</b> ?",
            "QUD": "He is not really a lamb.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -613,7 +613,7 @@ const task_trial_info_negated = {
            "animal": "wolf",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>LONELY</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>LONELY</b> ?",
            "QUD": "He is not a wolf.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -623,7 +623,7 @@ const task_trial_info_negated = {
            "animal": "wolf",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>LONELY</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>LONELY</b> ?",
            "QUD": "He is not actually a wolf.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -633,7 +633,7 @@ const task_trial_info_negated = {
            "animal": "wolf",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>LONELY</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>LONELY</b> ?",
            "QUD": "He is not literally a wolf.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -643,7 +643,7 @@ const task_trial_info_negated = {
            "animal": "wolf",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>LONELY</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>LONELY</b> ?",
            "QUD": "He is not really a wolf.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -656,7 +656,7 @@ const task_trial_info_negated = {
            "animal": "bat",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>BLIND</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>BLIND</b> ?",
            "QUD": "She is not a bat.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -666,7 +666,7 @@ const task_trial_info_negated = {
            "animal": "bat",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>BLIND</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>BLIND</b> ?",
            "QUD": "She is not actually a bat.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -676,7 +676,7 @@ const task_trial_info_negated = {
            "animal": "bat",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>BLIND</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>BLIND</b> ?",
            "QUD": "She is not literally a bat.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -686,7 +686,7 @@ const task_trial_info_negated = {
            "animal": "bat",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>BLIND</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>BLIND</b> ?",
            "QUD": "She is not really a bat.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -699,7 +699,7 @@ const task_trial_info_negated = {
            "animal": "lion",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>BRAVE</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>BRAVE</b> ?",
            "QUD": "He is not a lion.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -709,7 +709,7 @@ const task_trial_info_negated = {
            "animal": "lion",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>BRAVE</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>BRAVE</b> ?",
            "QUD": "He is not actually a lion.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -719,7 +719,7 @@ const task_trial_info_negated = {
            "animal": "lion",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>BRAVE</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>BRAVE</b> ?",
            "QUD": "He is not literally a lion.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -729,7 +729,7 @@ const task_trial_info_negated = {
            "animal": "lion",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>BRAVE</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>BRAVE</b> ?",
            "QUD": "He is not really a lion.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -742,7 +742,7 @@ const task_trial_info_negated = {
            "animal": "bee",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>HARD-WORKING</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>HARD-WORKING</b> ?",
            "QUD": "She is not a bee.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -752,7 +752,7 @@ const task_trial_info_negated = {
            "animal": "bee",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>HARD-WORKING</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>HARD-WORKING</b> ?",
            "QUD": "She is not actually a bee.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -762,7 +762,7 @@ const task_trial_info_negated = {
            "animal": "bee",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>HARD-WORKING</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>HARD-WORKING</b> ?",
            "QUD": "She is not literally a bee.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -772,7 +772,7 @@ const task_trial_info_negated = {
            "animal": "bee",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>HARD-WORKING</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>HARD-WORKING</b> ?",
            "QUD": "She is not really a bee.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -785,7 +785,7 @@ const task_trial_info_negated = {
            "animal": "chicken",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>COWARDLY</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>COWARDLY</b> ?",
            "QUD": "She is not a chicken.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -795,7 +795,7 @@ const task_trial_info_negated = {
            "animal": "chicken",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>COWARDLY</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>COWARDLY</b> ?",
            "QUD": "She is not actually a chicken.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -805,7 +805,7 @@ const task_trial_info_negated = {
            "animal": "chicken",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>COWARDLY</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>COWARDLY</b> ?",
            "QUD": "She is not literally a chicken.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -815,7 +815,7 @@ const task_trial_info_negated = {
            "animal": "chicken",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>COWARDLY</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>COWARDLY</b> ?",
            "QUD": "She is not really a chicken.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -828,7 +828,7 @@ const task_trial_info_negated = {
            "animal": "mouse",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>QUIET</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>QUIET</b> ?",
            "QUD": "He is not a mouse.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -838,7 +838,7 @@ const task_trial_info_negated = {
            "animal": "mouse",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>QUIET</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>QUIET</b> ?",
            "QUD": "He is not actually a mouse.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -848,7 +848,7 @@ const task_trial_info_negated = {
            "animal": "mouse",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>QUIET</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>QUIET</b> ?",
            "QUD": "He is not literally a mouse.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -858,7 +858,7 @@ const task_trial_info_negated = {
            "animal": "mouse",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>QUIET</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>QUIET</b> ?",
            "QUD": "He is not really a mouse.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -871,7 +871,7 @@ const task_trial_info_negated = {
            "animal": "cow",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>FAT</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>FAT</b> ?",
            "QUD": "She is not a cow.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -881,7 +881,7 @@ const task_trial_info_negated = {
            "animal": "cow",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>FAT</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>FAT</b> ?",
            "QUD": "She is not actually a cow.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -891,7 +891,7 @@ const task_trial_info_negated = {
            "animal": "cow",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>FAT</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>FAT</b> ?",
            "QUD": "She is not literally a cow.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -901,7 +901,7 @@ const task_trial_info_negated = {
            "animal": "cow",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>FAT</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>FAT</b> ?",
            "QUD": "She is not really a cow.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -914,7 +914,7 @@ const task_trial_info_negated = {
            "animal": "rat",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>DISGUSTING</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>DISGUSTING</b> ?",
            "QUD": "He is not a rat.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -924,7 +924,7 @@ const task_trial_info_negated = {
            "animal": "rat",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>DISGUSTING</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>DISGUSTING</b> ?",
            "QUD": "He is not actually a rat.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -934,7 +934,7 @@ const task_trial_info_negated = {
            "animal": "rat",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>DISGUSTING</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>DISGUSTING</b> ?",
            "QUD": "He is not literally a rat.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -944,7 +944,7 @@ const task_trial_info_negated = {
            "animal": "rat",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>DISGUSTING</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>DISGUSTING</b> ?",
            "QUD": "He is not really a rat.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -957,7 +957,7 @@ const task_trial_info_negated = {
            "animal": "hen",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>PROTECTIVE</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>PROTECTIVE</b> ?",
            "QUD": "She is not a hen.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -967,7 +967,7 @@ const task_trial_info_negated = {
            "animal": "hen",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>PROTECTIVE</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>PROTECTIVE</b> ?",
            "QUD": "She is not actually a hen.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -977,7 +977,7 @@ const task_trial_info_negated = {
            "animal": "hen",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>PROTECTIVE</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>PROTECTIVE</b> ?",
            "QUD": "She is not literally a hen.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -987,7 +987,7 @@ const task_trial_info_negated = {
            "animal": "hen",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>PROTECTIVE</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>PROTECTIVE</b> ?",
            "QUD": "She is not really a hen.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -1000,7 +1000,7 @@ const task_trial_info_negated = {
            "animal": "weasel",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>DEVIOUS</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>DEVIOUS</b> ?",
            "QUD": "He is not a weasel.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -1010,7 +1010,7 @@ const task_trial_info_negated = {
            "animal": "weasel",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>DEVIOUS</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>DEVIOUS</b> ?",
            "QUD": "He is not actually a weasel.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -1020,7 +1020,7 @@ const task_trial_info_negated = {
            "animal": "weasel",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>DEVIOUS</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>DEVIOUS</b> ?",
            "QUD": "He is not literally a weasel.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -1030,7 +1030,7 @@ const task_trial_info_negated = {
            "animal": "weasel",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>DEVIOUS</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>DEVIOUS</b> ?",
            "QUD": "He is not really a weasel.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -1043,7 +1043,7 @@ const task_trial_info_negated = {
            "animal": "owl",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>WISE</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>WISE</b> ?",
            "QUD": "She is not an owl.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -1053,7 +1053,7 @@ const task_trial_info_negated = {
            "animal": "owl",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>WISE</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>WISE</b> ?",
            "QUD": "She is not actually an owl.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -1063,7 +1063,7 @@ const task_trial_info_negated = {
            "animal": "owl",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>WISE</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>WISE</b> ?",
            "QUD": "She is not literally an owl.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -1073,7 +1073,7 @@ const task_trial_info_negated = {
            "animal": "owl",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>WISE</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>WISE</b> ?",
            "QUD": "She is not really an owl.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -1086,7 +1086,7 @@ const task_trial_info_negated = {
            "animal": "snake",
            "modal": "non-modal",
            "condition": "non-intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>SNEAKY</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>SNEAKY</b> ?",
            "QUD": "He is not a snake.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -1096,7 +1096,7 @@ const task_trial_info_negated = {
            "animal": "snake",
            "modal": "actually",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>SNEAKY</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>SNEAKY</b> ?",
            "QUD": "He is not actually a snake.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -1106,7 +1106,7 @@ const task_trial_info_negated = {
            "animal": "snake",
            "modal": "literally",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>SNEAKY</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>SNEAKY</b> ?",
            "QUD": "He is not literally a snake.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
@@ -1116,7 +1116,7 @@ const task_trial_info_negated = {
            "animal": "snake",
            "modal": "really",
            "condition": "intensified",
-           "question": "To what extent do you think the person being talked about is ... <br /><b>SNEAKY</b> ?",
+           "question": "To what extent do you think the person being talked about is portrayed as ... <br /><b>SNEAKY</b> ?",
            "QUD": "He is not really a snake.",
            "optionLeft": "<b>-</b>",
            "optionRight": "<b>+</b>"
